@@ -1,10 +1,11 @@
 import logo from "./logo.svg";
 import "./App.css";
+import MainPgae from "./MainPgae";
 
 function App() {
   return (
     <div className="App">
-      <h1>Harish Palsande</h1>
+      <MainPgae />
     </div>
   );
 }
